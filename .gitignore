@@ -1,0 +1,5 @@
+# Generated modules and files
+node_modules/
+
+# Playground folder
+src/playground
